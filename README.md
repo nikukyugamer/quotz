@@ -1,2 +1,2 @@
-# quotz
-Auto Quotes
+# Quotz
+- Auto Quotes

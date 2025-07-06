@@ -35,7 +35,7 @@ GEM
     google-cloud-vision-v1p3beta1 (0.9.0)
       gapic-common (>= 0.17.1, < 2.a)
       google-cloud-errors (~> 1.0)
-    google-protobuf (3.25.2-x86_64-linux)
+    google-protobuf (3.25.5-x86_64-linux)
     googleapis-common-protos (1.4.0)
       google-protobuf (~> 3.14)
       googleapis-common-protos-types (~> 1.2)

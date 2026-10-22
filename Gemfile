@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '4.0.7'
+ruby '4.0.8'
 
 gem 'google-cloud-vision'
 gem 'rubocop'
